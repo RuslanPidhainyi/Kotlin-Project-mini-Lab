@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Lab01</string>
+    <string name="app_name">Menu</string>
+    <string name="lab01">Lab01</string>
+    <string name="lab02">Lab02</string>
+    <string name="board_activity_menu_sound">Sound</string>
+    <string name="title_activity_lab06">Lab06Activity</string>
 </resources>
